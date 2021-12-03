@@ -1,0 +1,9 @@
+@import url("https://www.w3schools.com/w3css/4/w3.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap");
+
+/* base styles */
+body {
+  font-family: Raleway, sans-serif;
+  margin: 0;
+}
